@@ -8,7 +8,7 @@ Demo site: [https://demo.filesbox.cn](https://demo.filesbox.cn)
 
 Account & password: Demo / Demo123
 
-中文网站: [https://www.filesbox.cn](https://demo.filesbox.cn)
+中文网站: [https://www.filesbox.cn](https://www.filesbox.cn)
 
 **Features**
 
