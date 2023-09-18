@@ -7,6 +7,7 @@ Filesbox is a powerful file manager , which you can view & edit a lot of kinds o
 Demo site: [https://demo.filesbox.cn](https://demo.filesbox.cn)
 Account: Demo / Demo123
 
+中文网站 [https://www.filesbox.cn]
 
 **Features**
 
