@@ -43,8 +43,8 @@ Video Editor
 
 
 ```
-git clone git@github.com:wujihulian/wjhl_disk.git
-chmod -RF 777 ./wjhl_disk/*
+git clone git@github.com:wujihulian/filesbox.git
+chmod -RF 777 ./filesbox/*
 ```
 
 
@@ -52,8 +52,8 @@ chmod -RF 777 ./wjhl_disk/*
 
 
 ```
-wget https://github.com/wujihulian/wjhl_disk/archive/refs/heads/master.zip
-unzip wjhl_disk-master.zip
+wget https://codeload.github.com/wujihulian/filesbox/zip/refs/heads/master
+unzip filesbox-master.zip
 chomd -Rf 777 ./*
 ```
 
